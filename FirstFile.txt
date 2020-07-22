@@ -4,3 +4,4 @@ Line added in jira_2.
 Jira 2 after first commit.
 Line added in Jira 3.
 Jira 3 after first commit.
+Line added in Jira 4.
